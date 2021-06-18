@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+PHHuwO/Xo8TPc05ZzaIezfnmwOgJuda2CDLQkp3Mfj2ce9cjzW6BwxeBq4XT88Q2I45LfW/NDjIDrUX4Ce2g==",
+  "dgSpecHash": "wI4nZkeeEMwCb3FcxMov1cZS/0++CeqWldM3BBgS6qZato91ozbasm8ROb+p2yQVlS7ryYJ6Bayvl37b3GpkNA==",
   "success": true,
-  "projectFilePath": "D:\\Bean - Files\\Visual Test\\Web1\\Clock\\Clock\\Clock.csproj",
+  "projectFilePath": "D:\\Bean - Files\\Visual Test\\WPF\\Clock\\Clock\\Clock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beans\\.nuget\\packages\\mahapps.metro.iconpacks\\4.8.0\\mahapps.metro.iconpacks.4.8.0.nupkg.sha512",
     "C:\\Users\\beans\\.nuget\\packages\\mahapps.metro.iconpacks.bootstrapicons\\4.8.0\\mahapps.metro.iconpacks.bootstrapicons.4.8.0.nupkg.sha512"

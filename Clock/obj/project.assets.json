@@ -846,11 +846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bean - Files\\Visual Test\\Web1\\Clock\\Clock\\Clock.csproj",
+      "projectUniqueName": "D:\\Bean - Files\\Visual Test\\WPF\\Clock\\Clock\\Clock.csproj",
       "projectName": "Clock",
-      "projectPath": "D:\\Bean - Files\\Visual Test\\Web1\\Clock\\Clock\\Clock.csproj",
+      "projectPath": "D:\\Bean - Files\\Visual Test\\WPF\\Clock\\Clock\\Clock.csproj",
       "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-      "outputPath": "D:\\Bean - Files\\Visual Test\\Web1\\Clock\\Clock\\obj\\",
+      "outputPath": "D:\\Bean - Files\\Visual Test\\WPF\\Clock\\Clock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

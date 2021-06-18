@@ -426,7 +426,7 @@
                 Grid.RowSpan="2" Grid.ColumnSpan="2">
 
         <Grid>
-            <Grid>
+            <Grid x:Name="controlButtons" Opacity="0" MouseEnter="Grid_MouseEnter">
                 <Border Width="35" Height="35" Panel.ZIndex="10" 
                       BorderBrush="White" BorderThickness="1" CornerRadius="5" PreviewMouseLeftButtonDown="clsbtn"
                         Margin="0,0,-370,350">
@@ -475,7 +475,7 @@
                     </Border.Effect>
                     <Image Width="370" Height="370">
                         <Image.Source>
-                            <BitmapImage  UriSource="D:\Bean - Files\Visual Test\Web1\Clock\Clock\clockimg.png" />
+                            <BitmapImage  UriSource="D:\Bean - Files\Visual Test\WPF\Clock\Clock\Img\clockimg.png" />
                         </Image.Source>
                     </Image>
                 </Border>

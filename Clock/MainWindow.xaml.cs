@@ -84,5 +84,10 @@ namespace Clock
             }
 
         }
+
+        private void Grid_MouseEnter(object sender, MouseEventArgs e)
+        {
+            controlButtons.Opacity = 100;
+        }
     }
 }
