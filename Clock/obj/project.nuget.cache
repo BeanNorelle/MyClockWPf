@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+PHHuwO/Xo8TPc05ZzaIezfnmwOgJuda2CDLQkp3Mfj2ce9cjzW6BwxeBq4XT88Q2I45LfW/NDjIDrUX4Ce2g==",
+  "success": true,
+  "projectFilePath": "D:\\Bean - Files\\Visual Test\\Web1\\Clock\\Clock\\Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beans\\.nuget\\packages\\mahapps.metro.iconpacks\\4.8.0\\mahapps.metro.iconpacks.4.8.0.nupkg.sha512",
+    "C:\\Users\\beans\\.nuget\\packages\\mahapps.metro.iconpacks.bootstrapicons\\4.8.0\\mahapps.metro.iconpacks.bootstrapicons.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
