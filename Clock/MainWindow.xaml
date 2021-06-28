@@ -12,7 +12,7 @@
  ResizeMode="CanResize"
          AllowsTransparency="True"
         WindowStartupLocation="CenterScreen"
-         MouseDown="Window_MouseDown">
+       >
 
     <Window.Resources>
         <Storyboard x:Key="sbseconds" RepeatBehavior="Forever">
@@ -425,45 +425,9 @@
                 Width="auto" Height="auto"
                 Grid.RowSpan="2" Grid.ColumnSpan="2">
 
-        <Grid>
-            <Grid x:Name="controlButtons" Opacity="0" MouseEnter="Grid_MouseEnter">
-                <Border Width="35" Height="35" Panel.ZIndex="10" 
-                      BorderBrush="White" BorderThickness="1" CornerRadius="5" PreviewMouseLeftButtonDown="clsbtn"
-                        Margin="0,0,-370,350">
-
-                    <Button x:Name="Closebtn" >
-                        <iconPacks:BootstrapIcons Kind="X" Width="18"/>
-                    </Button>
-                </Border>
-  
-          
-            
-            <Grid x:Name="resizeGrip" Focusable="True" Height="auto">
-              
-                    <Border Background="Black" CornerRadius="2.5" 
-                         BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,-25,0"></Border>
-                    <Border Background="Black" CornerRadius="2.5"
-                         BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,0,-25"></Border>
-                    <Border Background="Black" CornerRadius="2.5" 
-                        BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,-25,-25"></Border>
-                    <Border Background="Black" CornerRadius="2.5" 
-                        BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,25,-25"></Border>
-                    <Border Background="Black" CornerRadius="2.5" 
-                        BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,0,0"></Border>
-                    <Border Background="Black" CornerRadius="2.5" 
-                        BorderThickness="1.5" BorderBrush="White"
-                        Width="10" Height="10" Margin="380,380,-25,25"></Border>
-             
                 
-            </Grid>
-            </Grid>
-
-
+        
+        <Grid   MouseDown="Window_MouseDown">
             <Border Background="#FF2E2E2E" CornerRadius="200,200,200,200" RenderTransformOrigin="0, 0.5"
                     Width="400" Height="400" BorderBrush="Black">
                 <Border.Effect>
@@ -482,7 +446,7 @@
             </Border>
 
             <Path x:Name="ssecond" Stroke="Black" StrokeThickness=".4" Fill="#FFE52222" VerticalAlignment="Center"
-                  HorizontalAlignment="Left" RenderTransformOrigin="0.2, 0.5" Panel.ZIndex="3" Margin="168,0,0,0" >
+                  HorizontalAlignment="Left" RenderTransformOrigin="0.2, 0.5" Panel.ZIndex="3" Margin="160.5,2,0,0" >
                 <Path.Data>
                     <PathGeometry Figures="M 0,0  0,6   200,4 200,2" />
                 </Path.Data>
@@ -499,7 +463,7 @@
                 </Path.RenderTransform>
             </Path>
             <Path x:Name="sminute" Fill="DarkSlateGray" Stroke="black" StrokeThickness=".4"
-                  VerticalAlignment="Center" HorizontalAlignment="Left" Panel.ZIndex="2" RenderTransformOrigin="0.1,0.5" Margin="192,0,0,0">
+                  VerticalAlignment="Center" HorizontalAlignment="Left" Panel.ZIndex="2" RenderTransformOrigin="0.1,0.5" Margin="184.5,2,0,0">
                 <Path.Data>
                     <PathGeometry Figures="M 0,0 0,10 160,7 160,3"/>
                 </Path.Data>
@@ -517,7 +481,7 @@
             </Path>
 
             <Path x:Name="shour" Fill="Black" Stroke="black" StrokeThickness=".4"
-                  VerticalAlignment="Center" HorizontalAlignment="Left" Panel.ZIndex="1" RenderTransformOrigin="0.1,0.5" Margin="196,0,0,0">
+                  VerticalAlignment="Center" HorizontalAlignment="Left" Panel.ZIndex="1" RenderTransformOrigin="0.1,0.5" Margin="188.5,2,0,0">
                 <Path.Data>
                     <PathGeometry Figures="M 0,0 0,10 120,7 120,3"/>
                 </Path.Data>

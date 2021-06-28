@@ -5,7 +5,7 @@
             
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <Style TargetType="{x:Type Button}">
+        <!--<Style TargetType="{x:Type Button}">
             <Setter Property="Background" Value="#FF1C1C1C"/>
             <Setter Property="Foreground" Value="#FFAEA6A6"/>
             <Setter Property="Template">
@@ -23,6 +23,6 @@
                     <Setter Property="Foreground" Value="#FF1C1C1C"/>
                 </Trigger>
             </Style.Triggers>
-        </Style>
+        </Style>-->
     </Application.Resources>
 </Application>

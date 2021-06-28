@@ -96,8 +96,6 @@ D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\MainWindow.
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\App.g.cs
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\Clock_MarkupCompile.cache
-D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\Clock_MarkupCompile.lref
-D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\App.baml
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\Clock.g.resources
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
 D:\Bean - Files\Visual Test\WPF\Clock\Clock\obj\Debug\net5.0-windows\Clock.AssemblyInfoInputs.cache
