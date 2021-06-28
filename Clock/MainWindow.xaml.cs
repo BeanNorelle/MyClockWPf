@@ -45,13 +45,10 @@ namespace Clock
         //        rk.DeleteValue(AppName, false);
 
         //}
-        private void clsbtn(object sender, MouseButtonEventArgs e)
+   
+        private void closebtn_MouseDown(object sender, MouseButtonEventArgs e)
         {
             this.Close();
         }
-
-     
-
-      
     }
 }
